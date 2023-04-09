@@ -1,7 +1,26 @@
-# Clap Application
+
+# CMPE277_Assignment 
+## Clap Application
+**Student Name:** Bhavya Hegde <br>
+**Student ID:** 016605029 <br>
+**Course:** Smartphone Application Development <br>
+## Learning Objective : 
+Using Proximity (TYPE_PROXIMITY) sensor, develop mobile clap app. The goal is to simulate clapping using mobile phone and hand. </br>
+
+App screenshots:
+
+Initial Screen :
+
+![image](https://user-images.githubusercontent.com/85700971/230793543-5edf8d74-91bc-4f48-b411-0fff803d75f4.png)
 
 
-![1](https://user-images.githubusercontent.com/42689991/54888788-801fbf00-4e5d-11e9-84ac-d212f9de6929.PNG)
+on clap start :
 
-![2](https://user-images.githubusercontent.com/42689991/54888789-80b85580-4e5d-11e9-8f6b-541bbea02edb.PNG)
+
+![image](https://user-images.githubusercontent.com/85700971/230793548-09c75e52-b6ac-4287-8c47-95b57d0c99a5.png)
+
+On clap stop:
+
+![image](https://user-images.githubusercontent.com/85700971/230793554-d8b37f3f-cd2d-45e5-876c-2e24747064a2.png)
+
 
